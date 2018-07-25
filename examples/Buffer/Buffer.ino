@@ -1,9 +1,3 @@
-/* Copyright 2016 Pascal Vizeli <pvizeli@syshack.ch>
- * BSD License
- *
- * https://github.com/pvizeli/CmdParser
- */
-
 ////
 // This example is a demo for CmdBuffer.
 // It will read printable data from serial into modern buffer

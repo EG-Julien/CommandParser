@@ -1,9 +1,3 @@
-/* Copyright 2016 Pascal Vizeli <pvizeli@syshack.ch>
- * BSD License
- *
- * https://github.com/pvizeli/CmdParser
- */
-
 #ifndef _CMDPARSER_H_
 #define _CMDPARSER_H_
 

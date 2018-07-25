@@ -1,9 +1,3 @@
-/* Copyright 2016 Pascal Vizeli <pvizeli@syshack.ch>
- * BSD License
- *
- * https://github.com/pvizeli/CmdParser
- */
-
 #include "CmdCallback.hpp"
 
 void CmdCallbackObject::loopCmdProcessing(CmdParser *      cmdParser,

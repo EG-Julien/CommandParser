@@ -1,9 +1,3 @@
-/* Copyright 2016 Pascal Vizeli <pvizeli@syshack.ch>
- * BSD License
- *
- * https://github.com/pvizeli/CmdParser
- */
-
 ////
 // This example is a demo for CmdParser.
 // It parse a command line from string buffer or CmdBuffer.
